@@ -6,7 +6,7 @@ This Python script is designed to interact with ArcGIS Online (AGOL) to manage s
 - Eric Millan
 
 ## 📅 Last Updated
-- April 16, 2024
+- May 2, 2024
 
 ## ✨ Features
 - 🌐 Connect to AGOL using specified credentials.

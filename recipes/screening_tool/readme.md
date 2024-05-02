@@ -56,7 +56,3 @@ Modify the script paths and credentials as necessary to match your AGOL setup an
 ## 🤝 Contributing
 
 Contributions are welcome. Please fork the repository and submit a pull request with your suggested changes.
-
-## 📜 License
-
-Specify your license or state if the project is open source.

@@ -436,6 +436,7 @@ class MAMU_AGOL_TOOLS:
         # Incorporate unclassified land into Class 6
         area_per_value[6] += unclassified_area
 
+
         # Creating the bar graph
         labels = list(range(1, 7))
         areas = [area_per_value.get(label, 0) for label in labels]
